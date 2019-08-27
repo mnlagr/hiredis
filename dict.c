@@ -39,7 +39,7 @@
 #include <limits.h>
 #include "dict.h"
 
-/* -------------------------- private prototypes ---------------------------- */
+/* -------------------------- private prototypes  */
 
 static int _dictExpandIfNeeded(dict *ht);
 static unsigned long _dictNextPower(unsigned long size);
